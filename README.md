@@ -6,6 +6,11 @@ Easy way to Smtp
 
 ---
 
+Nuget:[![Simplerjiang.AspnetCoreEmailSender](https://img.shields.io/nuget/v/Simplerjiang.AspnetCoreEmailSender)](https://www.nuget.org/packages/Simplerjiang.AspnetCoreEmailSender/)
+[![Simplerjiang.AspnetCoreEmailSender](https://img.shields.io/nuget/dt/Simplerjiang.AspnetCoreEmailSender)](https://www.nuget.org/packages/Simplerjiang.AspnetCoreEmailSender/)
+
+---
+
 ## 快速使用 Quick Start
 
 将下面代码加入到 Startup.cs 中的 ConfigureServices 方法中
